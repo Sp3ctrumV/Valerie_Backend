@@ -1,2 +1,2 @@
-# valerie_backend
+# backend
 Backend repositorie for store code
